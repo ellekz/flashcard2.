@@ -3,3 +3,13 @@
     --card-front-color:rgb(9, 12, 36);
     --card-back-color:rgb(132, 143, 165);
 }
+
+
+body {
+    background: url(img/bg-desktop.webp.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Bai Jamjuree;, sans-serif;
+    margin: 0;
+    padding-bottom: 2rem;
+}
